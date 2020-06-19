@@ -24,6 +24,7 @@ class Db {
             return parsed;
         })
     }
+    
 }
 
 module.exports = new Db();
