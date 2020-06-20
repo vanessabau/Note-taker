@@ -1,5 +1,5 @@
 # README Note-Taker
-Application that allows user to create, edit, save, and delte notes.
+Application that allows user to create, edit, save, and delete notes.
 # ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ## GITHUB USER: vanessabau
 ## GITHUB EMAIL: vbautista916@icloud.com
